@@ -19,17 +19,19 @@ public class AppMain {
 				String code = data[3];
 				System.out.println(code);
 
-				if(code.equals("1")){
-					System.out.println("社員コード："+data[0]+"，社員名："+data[1]+"，部門名："+data[2]+"，採用担当です");
-				};
 
-				if(code.equals("2")){
-					System.out.println("社員コード："+data[0]+"，社員名："+data[1]+"，部門名："+data[2]+"，総務担当です");
-				};
 
-				if(code.equals("3")){
-					System.out.println("社員コード："+data[0]+"，社員名："+data[1]+"，部門名："+data[2]+"，開発担当です");
-				};
+//				if(code.equals("1")){
+//					System.out.println("社員コード："+data[0]+"，社員名："+data[1]+"，部門名："+data[2]+"，採用担当です");
+//				};
+//
+//				if(code.equals("2")){
+//					System.out.println("社員コード："+data[0]+"，社員名："+data[1]+"，部門名："+data[2]+"，総務担当です");
+//				};
+//
+//				if(code.equals("3")){
+//					System.out.println("社員コード："+data[0]+"，社員名："+data[1]+"，部門名："+data[2]+"，開発担当です");
+//				};
 
 
 				/*
